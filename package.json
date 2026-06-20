@@ -1,0 +1,11 @@
+{
+  "name": "awesome-libp2p",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
