@@ -56,4 +56,5 @@ This is a community list of awesome projects, protocols, networks, apps, tools, 
 - [Berty](https://github.com/berty/berty)
 - [Hopr](https://github.com/hoprnet/hoprnet)
 - [Seed Hypermedia](https://github.com/seed-hypermedia/seed)
+- [Kiwi News](https://github.com/attestate/kiwistand)
 
